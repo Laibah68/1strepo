@@ -1,4 +1,4 @@
 IET-j section contains 20 students in the class.nd all very polite.
 we have 16 lectures.
 we r on 3rd line in this file.
-
+3rd line is imp.
